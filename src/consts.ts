@@ -14,7 +14,7 @@ export const USER_SITE = "https://frosti.saroprock.com"
 export const USER_AVATAR = "https://bu.dusays.com/2024/11/05/6729d52b375b9.jpg";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://astropinlun.vercel.app/";
 
 // Theme settings
 export const DAISYUI_THEME = {
@@ -102,6 +102,12 @@ export const socialIcons = [
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "bilibili",
+  },
+  {
+    href: "https://t.me/kemiaofx_me",
+    ariaLabel: "Telegram",
+    title: "Telegram",
+    svg: "telegram",
   },
   {
     href: "/rss.xml",
