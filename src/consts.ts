@@ -10,7 +10,7 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
 export const USER_NAME = "克喵爱吃卤面";
-export const USER_SITE = "https://frosti.saroprock.com"
+export const USER_SITE = "https://kemiaoshiwo.top/"
 export const USER_AVATAR = "https://bu.dusays.com/2024/11/05/6729d52b375b9.jpg";
 
 // Server and transition settings
